@@ -1,6 +1,6 @@
 # Tanisha-Rai-Profile
 
-## Hello, I'm [Tanisha Rai!](https://tanisharai21.github.io/portfolio/)👋
+## Hello, I'm [Tanisha Rai!](https://tanisharai21.github.io/Portfolio/)👋
 I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
 
@@ -70,7 +70,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tanisharai21&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/tanisharai21/tanisharai21/blob/main/github-contribution-grid-snake.svg)
+
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
